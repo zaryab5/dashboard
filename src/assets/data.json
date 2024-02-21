@@ -1,0 +1,115 @@
+{
+    "stock":[
+        {
+            "value": 40,
+            "heading" : "Laptop"
+        },
+        {
+            "value": 70,
+            "heading": "Shoes"
+        },
+        {
+            "value": 48,
+            "heading": "Cameras"
+        },
+        {
+            "value": 30,
+            "heading":"Jeans"
+        }
+    ],
+
+    "transactions":[
+        {
+            "id" : "1",
+            "quantity" : 40,
+            "amount" : 766,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 12,
+            "amount" : 45,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "3",
+            "quantity" : 22,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "4",
+            "quantity" : 45,
+            "amount" : 1220,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "5",
+            "quantity" : 990,
+            "amount" : 600,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "6",
+            "quantity" : 40,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "3",
+            "quantity" : 4,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 20,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 41,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "3",
+            "quantity" : 12,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 12,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "2",
+            "quantity" : 12,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        },
+        {
+            "id" : "3",
+            "quantity" : 12,
+            "amount" : 3000,
+            "discount" : 29,
+            "status" : "processed"
+        }
+    ]
+   
+}
